@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="masukkan_angka">Masukkan Nilai</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="name">Gus Amiq Dian Mufti</string>
+    <string name="npm">19670096</string>
+</resources>
